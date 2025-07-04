@@ -1,0 +1,15 @@
+⚙️ How to Use
+
+📁 Download the Files
+Download both main.py and nifty500_list.py and place them in the same folder.
+📦 Install Required Libraries
+Open your terminal or command prompt and run:
+pip install yfinance pandas matplotlib mplfinance seaborn
+▶️ Run the Screener
+In the same folder, run the project using:
+python main.py
+🧭 Navigate the Menu
+You'll see a numbered menu of 9 modules. Enter the number for the feature you want to run and follow the prompts (e.g., enter mode, thresholds, years, etc.).
+📂 Output
+Filtered stock charts and graphs are automatically saved in organized subfolders under /stock_graphs/ and /downloads/.
+Terminal will show progress, results, and file paths.
