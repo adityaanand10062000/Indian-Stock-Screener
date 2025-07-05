@@ -144,4 +144,7 @@ From a technical standpoint, this project improved our understanding of API data
 In conclusion, this stock screener serves as a practical example of how programming and financial analysis can intersect to build intelligent, data-driven tools. It not only reinforces key programming concepts but also enhances analytical thinking from a finance perspective. The flexibility, automation, and depth of insights offered by this tool can empower users to make informed decisions in the ever-evolving stock market. With further refinements and the potential addition of a GUI or web interface, this project can evolve into a full-scale market analytics platform.
 
 
+# 🎉 Happy Screening and Smart Investing! 📈💡💰
+
+
 
